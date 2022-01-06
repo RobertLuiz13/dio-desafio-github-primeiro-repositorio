@@ -6,4 +6,7 @@ Sintaxe basica MarkDown
 (https://www.markdownguide.org/basic-syntax/)
 
 Documentção Git(refêrencia)
-(https://git-scm.com/docs)
+(https://git-scm.com/docs
+
+Pagina Download  git 
+(https://git-scm.com/download) 
