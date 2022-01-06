@@ -8,5 +8,5 @@ Sintaxe basica MarkDown
 Documentção Git(refêrencia)
 (https://git-scm.com/docs
 
-Pagina Download  git 
+Pagina Download  Git
 (https://git-scm.com/download) 
