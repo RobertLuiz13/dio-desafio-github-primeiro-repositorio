@@ -1,6 +1,5 @@
-<h2>
-   Comandos Básicos de Navegação atraves do CLI(Comand Line Interface).
-Windows          
+<h2>Comandos Básicos de Navegação atraves do CLI(Comand Line Interface). </h2> 
+ **Windows**
 
    cd                 > Serve para alternar entre diretorios.
    dir                > Mostra uma lista de diretorios contidos na pasta em que você se encontra.
@@ -10,14 +9,13 @@ Windows
    cls                > Limpar tela
    tab               > Serve para auto completar palavras.
 
- Linux 
+ **Linux** 
 
-​ cd                 > Serve para alternar entre diretorios.
+ cd                 > Serve para alternar entre diretorios.
 ​ ls                 > Mostra uma lista de diretorios contidos na pasta em que você se encontra.
 ​ cd..               > Para retroceder um nivel.
 ​ mkdir              > Criar pastasrm  
  -rf                 > Deletar arquivos
 ​ clear ou Ctrl+l    > Limpar tela
-​ tab                > Serve para auto completar palavras.   
+​ tab                > Serve para auto completar palavras.     
 
-<h2/>
