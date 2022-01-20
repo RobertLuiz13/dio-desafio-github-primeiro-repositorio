@@ -1,5 +1,5 @@
 <h2>Comandos Básicos de Navegação atraves do CLI(Comand Line Interface). </h2> 
-​                                     **Windows**
+​                                     Windows
 
 -    cd                > Serve para alternar entre diretorios.
 
@@ -17,7 +17,7 @@
 
   
 
-​                                    **Linux** 
+​                                    Linux 
 
 -  cd                 > Serve para alternar entre diretorios.
 -  ls                 > Mostra uma lista de diretorios contidos na pasta em que você se encontra.
