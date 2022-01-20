@@ -1,7 +1,7 @@
 <h2>Comandos Básicos de Navegação atraves do CLI(Comand Line Interface). </h2> 
 ​                                     **Windows**
 
--    cd                 > Serve para alternar entre diretorios.
+-    cd                > Serve para alternar entre diretorios.
 
 -    dir                > Mostra uma lista de diretorios contidos na pasta em que você se encontra.
 
