@@ -1,9 +1,8 @@
 
 
 <h2>
-<h3>
-   Comandos Básicos de Navegação atraves do CLI(Comand Line Interface) 
-</h3>
+   Comandos Básicos de Navegação atraves do CLI(Comand Line Interface).
+</h2>
 
 <h6> 
 
