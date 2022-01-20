@@ -4,7 +4,9 @@
    Comandos Básicos de Navegação atraves do CLI(Comand Line Interface).
 </h2>
 
-<h6> 
+<h2>
+    
+</h2>
 
 Windows          X        Linux 
  cd                      X         cd         > Serve para alternar entre diretorios.
@@ -15,7 +17,7 @@ Windows          X        Linux
  cls                      X         clear ou Ctrl+l > Limpar tela
  tab                     X         tab       > Serve para auto completar palavras. 
 
-</h6>
+</h3>
 
 <h3/>
 
